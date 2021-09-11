@@ -3,10 +3,6 @@ body {
     font-family: fantasy, sans-serif;
 }
 
-.none {
-	display: none;
-}
-
 li {
     list-style-type: none;
 }
